@@ -21,9 +21,9 @@
     </developer>
   </developers>
   <scm>
-    <connection>scm:git:git://github.com/sbtqa/firefoxdriver-bin</connection>
-    <developerConnection>scm:git:ssh://github.com:sbtqa/firefoxdriver-bin.git</developerConnection>
-    <url>https://github.com/sbtqa/firefoxdriver-bin/tree/master</url>
+    <connection>scm:git:git://github.com/sbtqa/iedriver-bin</connection>
+    <developerConnection>scm:git:ssh://github.com:sbtqa/iedriver-bin.git</developerConnection>
+    <url>https://github.com/sbtqa/iedriver-bin/tree/master</url>
   </scm>
   <build>
     <plugins>
